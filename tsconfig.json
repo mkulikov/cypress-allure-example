@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "sourceMap": false,
+    "lib": ["es2017", "dom"],
+    "types": ["cypress", "cypress-wait-until"]
+  },
+  "include": [
+    "node_modules/cypress",
+    "test/cypress/**/*.ts"
+  ]
+}
