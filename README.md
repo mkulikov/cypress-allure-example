@@ -1,2 +1,2 @@
-yarn install
-yarn run cypress run
+# yarn install
+# yarn run cypress run
